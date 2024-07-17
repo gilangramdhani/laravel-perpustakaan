@@ -28,13 +28,4 @@
 <li>Admin dapat melihat dan mencetak riwayat peminjaman buku, sedangkan Anggota hanya dapat melihat list buku yang dipinjam olehnya</li>
 </ol>
 
-# ERD Sistem Informasi Perpustakaan :
-<img src="/public/img/erd.png">
 
-# Link Youtube : 
-https://youtu.be/DrCNV7E-eKc
-
-</ul>
-
-# laravel_perpustakaan
-"# laravel-perpustakaan" 
